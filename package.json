@@ -3,22 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "18.x"
-  },
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PugazharasanC/NodeExpressVercel.git"
+    "url": "git+https://github.com/mathewgilbert/statistics.git"
   },
-  "author": "Pugazh",
+  "author": "mathewgilbert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PugazharasanC/NodeExpressVercel/issues"
+    "url": "https://github.com/mathewgilbert/statistics.git"
   },
-  "homepage": "https://github.com/PugazharasanC/NodeExpressVercel#readme",
+  "homepage": "https://github.com/mathewgilbert/statistics.git",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.22.1",
